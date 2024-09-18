@@ -6,7 +6,7 @@ I worked with 2023 monthly data from Jersey City, New Jersey, which also include
  
 My visualizations overral story are posted at: (https://public.tableau.com/app/profile/le.nguyen1734/viz/Citi_bike_LeNguyen/OveralsStory?publish=yes)  on Tableau Public
 
-and Le_citibike.twb and Tableau Public workbook files are in the Tableau Folder
+and Le_citibike.twb and Tableau Public workbook files are in the main folder
 
 Overral Story is included :
 1.  First story: Rider Distribution in Jersey City: From Start Stations to End Stations – Total Rides: 31,773 -Total Rides 31,773
